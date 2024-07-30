@@ -66,4 +66,4 @@ Below are some screenshots of the project in action:
 ![](output/a.png)
 ![](output/b.png)
 ![](output/c.png)
-![](output/dd.png)
+![](output/d.png)
