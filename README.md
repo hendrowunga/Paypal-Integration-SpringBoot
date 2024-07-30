@@ -63,7 +63,7 @@ The following guides illustrate how to use some features concretely:
 
 Below are some screenshots of the project in action:
 
-![Screenshot](src\main\resources\output\a.png)
-![Screenshot](src\main\resources\output\b.png)
-![Screenshot](src\main\resources\output\c.png)
-![Screenshot](src\main\resources\output\d.png)
+![](output/a.png)
+![](output/b.png)
+![](output/c.png)
+![](output/dd.png)
